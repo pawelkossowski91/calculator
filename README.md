@@ -2,5 +2,5 @@
 
 
 
-![image](pawelkossowski91.github.io/calculator/calcReadMe.png)
+![image](https://pawelkossowski91.github.io/calculator/calcReadMe.png)
 
